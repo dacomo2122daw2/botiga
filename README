@@ -1,0 +1,11 @@
+La botiga té 2 taules:
+a) Clients -> amb els camps dni (clau primària), nom i email
+b) Productes -> amb els camps idprod (clau primària), nom del producte i preu del producte
+
+Un client pot comprar diversos producte
+Un producte pot ser comprat per diversos client
+A tota compra s'hauria d'afegir la data de compra i la quantitat del producte comprat
+Cada compra s'identifica per el dni i idprod
+Si s'esborra o modifica un client/producte ==> S'esborra o modifica la compra.
+
+
