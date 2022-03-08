@@ -1,1 +1,7 @@
-https://drive.google.com/file/d/1j3L1_lK-cpLvZuiQd5CxbfP_bs2NJGeU/view?usp=sharing
+Treballant amb Primary keys i Foreign keys amb Laravel. Proves de funcionament.
+    a) Video 1 (botiga.ogv): https://drive.google.com/file/d/1j3L1_lK-cpLvZuiQd5CxbfP_bs2NJGeU/view?usp=sharing
+        Aquest video mostra com crear primary keys des dels fitxers de migrations
+        Aquest video mostra com crear foreign keys des dels fitxers de migrations
+        Aquest video mostra els efectes de treballar amb foreigns keys sobre una taula ("compras").
+    b) Video 2 (botiga_update.ogv): https://drive.google.com/file/d/1HBcko8H7TK4xct-5bG05vHWdsWIzDf0h/view?usp=sharing
+       Aquest video mostra com un update a una taula de "clients" o "productes" té un efecte a la taula "compras" 
